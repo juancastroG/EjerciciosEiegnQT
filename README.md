@@ -1,4 +1,4 @@
-# EjerciciosEiegnQT
+# EjerciciosEigenQT
 
 * Descargar el archivo (.zip) / descargarlo con git
 * Descomprimir los archivos / almacenarlos en una carpeta (CmakeLists y main.cpp)
